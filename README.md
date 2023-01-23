@@ -29,3 +29,4 @@ Set of Spider Solitaire games built in React.
 ![Klondike](https://raw.githubusercontent.com/ashish0910/React-Solitaire/main/src/assets/klondike.png "Klondike")
 
 **I Would like to thank [silent-lad](https://github.com/silent-lad) for inspiration for this project. Check out his implementation in Vue [Here](https://github.com/silent-lad/VueSolitaire)** .
+# react-solitare-app
